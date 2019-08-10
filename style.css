@@ -1,0 +1,44 @@
+#container {
+  background-color: grey;
+  position: absolute;
+  left: 17%;
+  right: 50%;
+  top: 15%;
+}
+
+
+button {
+  height: 100px;
+  width:  100px;
+  border-radius: 50%;
+  background-color: white;
+}
+
+#btn {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  margin-left: 30px;
+}
+
+#random {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-right: 30px;
+}
+
+#btn, #random {
+  margin-bottom: 30px;
+}
+
+body {
+  background-color: red;
+}
+
+#title {
+  color: goldenrod;
+  font-size: 90px;
+  text-align: center;
+  margin-top: -10px;
+}
